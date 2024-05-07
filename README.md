@@ -4,7 +4,7 @@ solving them using either breadth- or depth-first searches.
 
 Contributions are made by Joe Portas ([@JoePortas05](https://github.com/JoePortas05) on GitHub).
 
-# Key Controls
+## Key Controls
 Provided are the design decisions we have made in completion of our
 Maze Generation assignment. Specifically, the keys associated with maze navigation,
 generation and style:
