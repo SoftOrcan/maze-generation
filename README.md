@@ -4,6 +4,16 @@ solving them using either breadth- or depth-first searches.
 
 Contributions are made by Joe Portas ([@JoePortas05](https://github.com/JoePortas05) on GitHub).
 
+## Running
+Requires Java 11 - later versions _will not_ run the tester library correctly.
+
+The two provided JARs (`javalib.jar` and `tester.jar`) should be added to the classpath when 
+these are being run.
+
+For run configurations, run the `tester.Main` class with one CLI argument: 
+the name of the class with tests to run (starting with `Examples`,
+and contain methods beginning with `test` that return boolean).
+
 ## Key Controls
 Provided are the design decisions we have made in completion of our
 Maze Generation assignment. Specifically, the keys associated with maze navigation,
@@ -29,14 +39,3 @@ generation and style:
 - Key `s`: skip the construction animation
 - Key `t`: view the initial state of the Maze without clearing it; can alternate between the
   current travelled path or the aforementioned initial state.
-
-## Running
-Requires Java 11 - later versions _will not_ run the tester library correctly.
-
-The two provided JARs (`javalib.jar` and `tester.jar`) should be added to the classpath when 
-these are being run.
-
-For run configurations, run the `tester.Main` class with one CLI argument: 
-the name of the class with tests to run (starting with `Examples`,
-and contain methods beginning with `test` that return boolean).
-
