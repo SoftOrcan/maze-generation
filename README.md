@@ -1,6 +1,7 @@
 # Maze Generation
 Generate mazes using Kruskal’s algorithm, and solving them using either breadth- or depth-first searches.
 Includes additional features, such as heatmaps, manual movement and maze construction animation, at the discretion of the user. 
+
 Please refer to [Design Decisions.md](https://github.com/HarmonicOrcan/maze-generation/blob/main/Design%20Decisions.md)
 for more detailed information. 
 
