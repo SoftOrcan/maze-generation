@@ -18,9 +18,7 @@ the name of the class with tests to run (starting with `Examples`,
 and contain methods beginning with `test` that return boolean).
 
 ## Key Controls
-Provided are the design decisions we have made in completion of our
-Maze Generation project. Specifically, the keys associated with maze navigation,
-generation and style:
+Provided are the keys associated with maze navigation, generation and style:
 
 **Miscellaneous:**
 - Space Bar: Pause the bigBang
