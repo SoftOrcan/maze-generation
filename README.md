@@ -16,7 +16,7 @@ and contain methods beginning with `test` that return boolean).
 
 ## Key Controls
 Provided are the design decisions we have made in completion of our
-Maze Generation assignment. Specifically, the keys associated with maze navigation,
+Maze Generation project. Specifically, the keys associated with maze navigation,
 generation and style:
 
 **Miscellaneous:**
