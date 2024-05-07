@@ -25,8 +25,8 @@ Provided are the keys associated with maze navigation, generation and style:
 - Key `n`: Generate a new Maze without restarting the bigBang
 
 **Automated Traversal:**
-- Key `d`: Perform DFS algorithm traversal
-- Key `b`: Perform BFS algorithm traversal
+- Key `d`: Perform Depth-First Search traversal
+- Key `b`: Perform Breath-First Search traversal
 
 **Manual Traversal:**
 - Left Arrow: Move to the left
