@@ -3,7 +3,7 @@ Generate mazes using Kruskal’s algorithm, and solving them using either breadt
 Includes additional features, such as manual movement, heatmaps and maze construction animation, at 
 the discretion of the user. 
 
-Please refer to [Design Decisions.md](https://github.com/HarmonicOrcan/maze-generation/blob/main/Design%20Decisions.md)
+Please refer to [design-decisions.md](https://github.com/HarmonicOrcan/maze-generation/blob/main/Design%20Decisions.md)
 for more detailed information. 
 
 Contributions are made by Joe Portas ([@JoePortas05](https://github.com/JoePortas05) on GitHub).
